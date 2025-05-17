@@ -27,11 +27,3 @@ This project uses a machine learning model trained on medical data to predict di
 - Python 3.6 or higher
 - pip (Python package manager)
 
-### Setup Instructions
-
-1. Clone the repository or download the project files
-
-2. Navigate to the project directory
-```bash
-cd "c:\Users\ragul\Downloads\Alpha Code\Disease Prediction"
-```
